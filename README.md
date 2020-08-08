@@ -24,7 +24,7 @@ Links which redirect to other websites.
 ***7. Contact Info and Social Media Handles:***
 My name and contact info along with cultural"s social media handles.
 
-##### I have also included a link in the website {My previous work in Web Dev} which redirects other websites which I have previously made.
+### I have also included a link in the website {My previous work in Web Dev} which redirects other websites which I have previously made.
 
 
 
