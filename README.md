@@ -14,6 +14,7 @@ Redesigned an enterprise expense system after tracing three separate team compla
 
 ## Projects in this profile
 
+- [`athaya-erp`](https://github.com/meghanigwal/athaya-erp) — CRM & ERP for a doorstep football academy: leads, players, coaches, centres and finance in one connected system (I led product; a developer wrote the code)
 - [`factory-os-design`](https://github.com/meghanigwal/factory-os-design) — Factory OS app design for manufacturers and brands: 162 screens in Figma, organised into numbered, plain-language sections
 - [`sql-data-warehouse-project`](https://github.com/meghanigwal/sql-data-warehouse-project) — data pipelines cleaning and normalizing multi-source data into business-ready SQL views
 - [`Covid-19-analysis`](https://github.com/meghanigwal/Covid-19-analysis) — exploratory data analysis in Jupyter
